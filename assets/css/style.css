@@ -402,7 +402,6 @@
     padding-top: 0;
   }
 
-
   .content .iframe{
     width: 100%;
     height: 50rem;
@@ -410,12 +409,14 @@
   }
 
   .index-content .intro-img img {
-    margin-bottom: -5rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
   }
 
   .index-content .intro-img a button {
-    width: 30rem;
-    height: 10rem;
+    width: 20rem;
+    height: 5rem;
+    font-size: 1.5rem;
   }
 
   .index-content, .grid{
