@@ -93,17 +93,20 @@
 .intro-img img{
   max-width: 100%;
   min-height: auto;
+  border-radius: 1rem;
 }
 
 .intro-imge img{
   max-width: 100%;
   min-height: auto;
+  border-radius: 1rem;
 }
 
 .intro-img-2 img{
   max-width: 100%;
   min-height: auto;
   border-radius: 10%;
+  border-radius: 1rem;
 }
 
 .top3-content{
